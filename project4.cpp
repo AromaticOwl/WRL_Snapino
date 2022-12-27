@@ -3,8 +3,8 @@
 int delay1 = 250;
 
 void setup() {
-  pinMode(9,OUTPUT);
-  pinMode(10,OUTPUT);
+  pinMode(9, OUTPUT);
+  pinMode(10, OUTPUT);
 }
 
 void loop() {
